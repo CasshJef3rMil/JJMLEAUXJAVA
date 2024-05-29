@@ -19,3 +19,10 @@ Para la entrega de la tarea debe realizar lo siguiente:
 
 📤 Formato de Entrega
 ✔ Documento de pdf con portada formal.
+
+Indicación: Desarrolle los ejercicios especificados dejando constancia de los códigos
+desarrollados en un proyecto de tipo Aplicación Java.
+1. Migrar los datos del archivo proveedores.csv a la clase Proveedor en java
+2. El programa deberá mostrar los proveedores migrados , haciendo uso de un
+“for” que va recorrer cualquier estructura de datos utilizada para almacenar la
+información de los proveedores.
